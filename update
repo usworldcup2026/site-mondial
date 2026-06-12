@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Cup 2026 - Official Tickets, Live Streaming & Crypto Betting</title>
+    <meta name="description" content="Buy official World Cup 2026 match tickets, watch secure live streams online, and bet anonymously using crypto.">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #0f172a; color: #fff; text-align: center; }
+        header { background: #1e293b; padding: 20px; border-bottom: 3px solid #3b82f6; }
+        .container { max-width: 800px; margin: 20px auto; padding: 20px; }
+        .btn { display: inline-block; background: #2563eb; color: #fff; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px; text-transform: uppercase; }
+        .btn-crypto { background: #059669; }
+        .btn-stream { background: #dc2626; }
+        .section { background: #1e293b; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #334155; }
+        footer { margin-top: 50px; font-size: 12px; color: #64748b; padding: 20px; }
+        footer a { color: #3b82f6; text-decoration: none; margin: 0 10px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🏆 WORLD CUP 2026 🏆</h1>
+        <p>Official Tickets, HD Live Streaming & Secure Crypto Betting</p>
+    </header>
+
+    <div class="container">
+        <!-- TICKETS SECTION -->
+        <div class="section">
+            <h2>🎟️ Official Match Tickets Available</h2>
+            <p>Secure your seats for group stage and knockout matches across the USA, Mexico, and Canada [2.1]. 100% Guaranteed delivery.</p>
+            <a href="#" class="btn">Find Match Tickets Now</a>
+        </div>
+
+        <!-- STREAMING SECTION -->
+        <div class="section">
+            <h2>🔴 HD Live Streams Online</h2>
+            <p>Access high-speed dedicated streams for today's matches with zero geo-restrictions and no pop-up ads.</p>
+            <a href="streaming.html" class="btn btn-stream">Watch Live Matches</a>
+        </div>
+
+        <!-- BETTING SECTION -->
+        <div class="section">
+            <h2>💰 Anonymous Crypto Betting (No KYC)</h2>
+            <p>Instant deposits and 5-minute payouts via BTC, USDT, and Monero. No ID verification or registration hassle required.</p>
+            <a href="#" class="btn btn-crypto">Bet Now & Get 100% Bonus</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 FanPassLive. All rights reserved for global football fans.</p>
+        <p>
+            <a href="privacy.html">Privacy Policy</a> | 
+            <a href="terms.html">Terms of Service</a> | 
+            <a href="contact.html">Contact Us</a>
+        </p>
+    </footer>
+
+</body>
+</html>
